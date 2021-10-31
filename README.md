@@ -9,7 +9,7 @@ Name:  ReactMovieDB
 
 
 Try it out!   
-<https://hillc255.github.io/ReactMovieDB/>
+<https://karthik1209-git.github.io/react-movie/>
 
 
 
